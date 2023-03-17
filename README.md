@@ -9,5 +9,3 @@ than install npm
 than install dev server
 the page will be open
 
-
-
