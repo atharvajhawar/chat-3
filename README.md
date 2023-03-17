@@ -3,9 +3,9 @@
 
 ### Launch your development career with project-based coaching - https://www.jsmastery.pro
 
-First we have to open the files in vs code 
-cd cilent
-than install npm
-than install dev server
-the page will be open
+First we have to open the files in vs code,
+cd cilent,
+than install npm,
+than install dev server,
+the page will be open,
 
